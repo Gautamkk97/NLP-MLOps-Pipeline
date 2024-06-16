@@ -1,5 +1,5 @@
-# NLP-MLOps-Pipeline
-End to end MLOps Pipeline for NLP
+# End to end MLOps Pipeline for NLP
+
 
 - `Model`: Intent Detection Model Training using Huggingface Trainer API with `wandb` and `Hydra` integration
 
